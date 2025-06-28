@@ -1,15 +1,16 @@
 # Hi there 👋 I'm **IMAD ZIANI**  
 
-**Software Engineering Student | Full-Stack Developer**  
+**`Software Engineering Student 🎓 | Full-Stack Developer 👨‍💻 `**
 
+## 🚀 About Me 
 passionate about building robust full-stack, mobile, and desktop applications. I love exploring the intersection between **technology and creativity**, and I’m always eager to learn and contribute to impactful projects.  
 
 ### My Main Areas of Interest:  
-- [x] Full-Stack Web Development (React.js, Laravel, Spring Boot)  
-- [x] Mobile Development (Flutter)  
-- [ ] Desktop Development (JavaFX, WinForms, WPF)  
-- [ ] Software Design & Architecture  
-- [ ] DevOps & Agile Methodologies  
+- [x] 🌐 Full-Stack Web Development (React.js, Laravel, Spring Boot)  
+- [x] 📱 Mobile Development (Flutter)  
+- [x] 🖥️ Desktop Development (JavaFX, WinForms, WPF)  
+- [x] 🛠️ Software Design & Architecture  
+- [x] DevOps & Agile Methodologies  
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
