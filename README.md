@@ -35,3 +35,10 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Dev-C++](https://img.shields.io/badge/DevC++-FF6600?logo=cplusplus&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-FF6A00?logo=codeblocks&logoColor=white)
+
+# 📊 GitHub Analytics
+
+
+[![Imad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadziani-dev&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=8&cache_seconds=1800)](https://github.com/imadziani-dev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadziani-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=FFFFFF&border_radius=8&cache_seconds=1800)](https://github.com/imadziani-dev)
