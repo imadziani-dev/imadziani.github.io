@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-ziani-32141b335)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziani.ima.fst@uhp.ac.ma)
+[Threads](https://www.threads.net/@yourusername){:rel="me"}
 ## 🚀 About Me 
 passionate about building robust full-stack, mobile, and desktop applications. I love exploring the intersection between **technology and creativity**, and I’m always eager to learn and contribute to impactful projects.  
 
