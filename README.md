@@ -42,7 +42,5 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 
 # 📊 GitHub Analytics
 
-
-[![Imad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadziani-dev&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=8&cache_seconds=1800)](https://github.com/imadziani-dev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadziani-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=FFFFFF&border_radius=8&cache_seconds=1800)](https://github.com/imadziani-dev)
+[![Imad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadziani-dev&show_icons=true&theme=github_dark&hide_border=true&v=1)](https://github.com/imadziani-dev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadziani-dev&layout=compact&theme=github_dark&hide_border=true&v=1)](https://github.com/imadziani-dev)
