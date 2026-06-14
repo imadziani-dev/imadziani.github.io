@@ -11,8 +11,7 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 ### Core Skills & Knowledge
 - [x] 📊 Data Structures & Algorithms  
 - [x] 🗄️ Relational Database Management (SQL, Oracle, MySQL)  
-- [x] 🛠️ Software Development Tools (C, Java, Python)  
-- [x] 📚 Object-Oriented Programming & Design Principles  
+- [x] 🛠️ Software Development Tools (C, Java, Python)   
 - [x] 🔍 Problem Solving & Debugging  
 - [x] 📈 Numerical & Statistical Analysis (MATLAB, Python)  
 
