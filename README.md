@@ -8,12 +8,13 @@
 ## 🚀 About Me 
 passionate about building robust full-stack, mobile, and desktop applications. I love exploring the intersection between **technology and creativity**, and I’m always eager to learn and contribute to impactful projects.  
 
-### My Main Areas of Interest:  
-- [x] 🌐 Full-Stack Web Development (React.js, Laravel, Spring Boot)  
-- [x] 📱 Mobile Development (Flutter)  
-- [x] 🖥️ Desktop Development (JavaFX, WinForms, WPF)  
-- [x] 🛠️ Software Design & Architecture  
-- [x] DevOps & Agile Methodologies  
+### Core Skills & Knowledge
+- [x] 📊 Data Structures & Algorithms  
+- [x] 🗄️ Relational Database Management (SQL, Oracle, MySQL)  
+- [x] 🛠️ Software Development Tools (C, Java, Python)  
+- [x] 📚 Object-Oriented Programming & Design Principles  
+- [x] 🔍 Problem Solving & Debugging  
+- [x] 📈 Numerical & Statistical Analysis (MATLAB, Python)  
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
