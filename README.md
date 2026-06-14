@@ -47,6 +47,9 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Dev-C++](https://img.shields.io/badge/DevC++-FF6600?logo=cplusplus&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-FF6A00?logo=codeblocks&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=white)
 
 # 📊 GitHub Analytics
 
