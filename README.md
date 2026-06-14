@@ -50,6 +50,7 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 
 # 📊 GitHub Analytics
 
