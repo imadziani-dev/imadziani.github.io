@@ -27,7 +27,9 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ### Database Management Software (DBMS) 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
