@@ -41,8 +41,7 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=azure-devops&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=azure-devops&logoColor=white)
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/OCI-F80000?logo=oracle&logoColor=white)
 ### IDEs & Development Tools  
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Dev-C++](https://img.shields.io/badge/DevC++-FF6600?logo=cplusplus&logoColor=white)
