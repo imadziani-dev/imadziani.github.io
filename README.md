@@ -30,6 +30,8 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ### Database Management Software (DBMS) 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -41,7 +43,6 @@ passionate about building robust full-stack, mobile, and desktop applications. I
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=azure-devops&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/OCI-F80000?logo=oracle&logoColor=white)
 ### IDEs & Development Tools  
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Dev-C++](https://img.shields.io/badge/DevC++-FF6600?logo=cplusplus&logoColor=white)
