@@ -4,8 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-ziani-32141b335)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziani.ima.fst@uhp.ac.ma)
+
 ### 📊 Profile Views
-(https://komarev.com/ghpvc/?username=imadziani&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=imadziani&color=blue)
 ## 🚀 About Me 
 passionate about building robust full-stack, mobile, and desktop applications. I'am actually working on innovative projects, I enjoy experemeting machine learning models, interested in AI automation and integration into development workflows and debugging
 ### Core Skills & Knowledge
