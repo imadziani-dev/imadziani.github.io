@@ -6,8 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziani.ima.fst@uhp.ac.ma)
 
 ## 🚀 About Me 
-passionate about building robust full-stack, mobile, and desktop applications. I love exploring the intersection between **technology and creativity**, and I’m always eager to learn and contribute to impactful projects.  
-
+passionate about building robust full-stack, mobile, and desktop applications. I'am actually working on innovative projects, I enjoy experemeting machine learning models, interested in AI automation and integration into development workflows and debugging
 ### Core Skills & Knowledge
 - [x] 📊 Data Structures & Algorithms  
 - [x] 🗄️ Relational Database Management (SQL, Oracle, MySQL)  
