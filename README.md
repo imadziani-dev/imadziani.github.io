@@ -73,6 +73,16 @@ passionate about building robust full-stack, mobile, and desktop applications. I
   <img src="https://img.shields.io/github/followers/imadziani?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/github/stars/imadziani?style=for-the-badge&logo=github&label=Total+Stars" />
 </p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/imadziani?style=social&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/imadziani?style=social&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/sponsors/imadziani?style=social&logo=github&label=Sponsors" />
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
 </p>
